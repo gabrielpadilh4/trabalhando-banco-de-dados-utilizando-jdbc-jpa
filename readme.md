@@ -35,3 +35,4 @@ mysql> CREATE TABLE aluno(
 Query OK, 0 rows affected (0.68 sec)
 mysql>
 ```
+
